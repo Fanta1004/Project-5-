@@ -10,7 +10,7 @@ class Main {
  if (blue == 12.30, time == 6.30)
 
  System.out.println("Yay! Movies Starting. Grab your snacks & have a seat please");
-   return true; 
+ return true; 
  else 
  System.out.println("Oh no! The Movie isn't available. Do you want to try another time?");
   }
